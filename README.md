@@ -3,7 +3,7 @@ Here links to my other web pages:
 * Blog: http://metabolomix.com.
 * Twitter: https://twitter.com/ksuhre
 * LinkedIn: https://www.linkedin.com/in/karstensuhre/
-* Lab Page: http://suhre.fr/
+* Lab Page: https://qatar-weill.cornell.edu/research/research-faculty/suhre-lab
 * Cornell Vivo: https://vivo.weill.cornell.edu/display/cwid-kas2049
 * Orcid: https://orcid.org/0000-0001-9638-3912
 * Publons: https://publons.com/researcher/4947442/karsten-suhre/
