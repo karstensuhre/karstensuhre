@@ -10,6 +10,15 @@ Here links to my other web pages:
 * Github: https://github.com/karstensuhre
 * Homepage: http://suhre.fr
 
+and servers/projects I am collaborating with:
+* mGWAS server: http://metabolomics.gwas.eu
+* pGWAS server: http://proteomics.gwas.eu
+* elNemo server: http://elnemo.org
+* MassTRIX server: http://masstrix.org
+* metaP server: http://metap.helmholtz-muenchen.de
+* Kastenmuller lab: https://omicscience.org
+* Alzheimer's Disease Atlas: http://www.adatlas.org
+
 <!--
 Hi there 👋
 
