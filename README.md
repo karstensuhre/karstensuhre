@@ -1,16 +1,16 @@
 ### Welcome to my Github repository
 Here links to my other web pages:
-* Blog: http://metabolomix.com.
+* Blog: http://metabolomix.com
 * Twitter: https://twitter.com/ksuhre
-* LinkedIn: https://www.linkedin.com/in/karstensuhre/
+* LinkedIn: https://www.linkedin.com/in/karstensuhre
 * Lab Page: https://qatar-weill.cornell.edu/research/research-faculty/suhre-lab
 * Cornell Vivo: https://vivo.weill.cornell.edu/display/cwid-kas2049
 * Orcid: https://orcid.org/0000-0001-9638-3912
-* Publons: https://publons.com/researcher/4947442/karsten-suhre/
+* Publons: https://publons.com/researcher/4947442/karsten-suhre
 * Github: https://github.com/karstensuhre
 * Homepage: http://suhre.fr
 
-and servers/projects I am collaborating with:
+and servers/projects I am involved in or collaborating with:
 * mGWAS server: http://metabolomics.gwas.eu
 * pGWAS server: http://proteomics.gwas.eu
 * elNemo server: http://elnemo.org
@@ -19,6 +19,7 @@ and servers/projects I am collaborating with:
 * Kastenmuller lab: https://omicscience.org
 * SNiPA: http://snipa.org
 * Alzheimer's Disease Atlas: http://www.adatlas.org
+* The Molecular Human: http://comics.metabolomix.com
 
 <!--
 Hi there 👋
