@@ -17,6 +17,7 @@ and servers/projects I am collaborating with:
 * MassTRIX server: http://masstrix.org
 * metaP server: http://metap.helmholtz-muenchen.de
 * Kastenmuller lab: https://omicscience.org
+* SNiPA: http://snipa.org
 * Alzheimer's Disease Atlas: http://www.adatlas.org
 
 <!--
