@@ -9,6 +9,7 @@ Here links to my other web pages:
 * Publons: https://publons.com/researcher/4947442/karsten-suhre
 * Github: https://github.com/karstensuhre
 * Homepage: http://suhre.fr
+* E-mail: karsten at suhre dot fr
 
 and servers/projects I am involved in or collaborating with:
 * mGWAS server: http://metabolomics.gwas.eu
