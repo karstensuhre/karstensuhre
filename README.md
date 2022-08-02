@@ -19,7 +19,7 @@ and servers/projects I am involved in or collaborating with:
 * Kastenmuller lab: https://omicscience.org
 * SNiPA: http://snipa.org
 * Alzheimer's Disease Atlas: http://www.adatlas.org
-* The Molecular Human: http://comics.metabolomix.com
+* The Molecular Human: http://metabolomix.com/comics (homepage) & http://comics.metabolomix.com (server)
 
 <!--
 Hi there 👋
