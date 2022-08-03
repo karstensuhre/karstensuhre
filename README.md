@@ -9,6 +9,7 @@ Here links to my other web pages:
 * Publons: https://publons.com/researcher/4947442/karsten-suhre
 * Google Scholar: https://scholar.google.com/citations?user=VwCP8jwAAAAJ
 * Scopus: https://www.scopus.com/authid/detail.uri?authorId=56188100500 (may require login)
+* Research Gate: https://www.researchgate.net/profile/Karsten-Suhre
 * Github: https://github.com/karstensuhre
 * Homepage: http://suhre.fr
 * E-mail: karsten at suhre dot fr
