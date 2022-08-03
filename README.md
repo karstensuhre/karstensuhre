@@ -8,6 +8,7 @@ Here links to my other web pages:
 * Orcid: https://orcid.org/0000-0001-9638-3912
 * Publons: https://publons.com/researcher/4947442/karsten-suhre
 * Google Scholar: https://scholar.google.com/citations?user=VwCP8jwAAAAJ
+* Scopus: https://www.scopus.com/authid/detail.uri?authorId=56188100500 (may require login)
 * Github: https://github.com/karstensuhre
 * Homepage: http://suhre.fr
 * E-mail: karsten at suhre dot fr
