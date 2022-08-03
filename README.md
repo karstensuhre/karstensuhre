@@ -7,6 +7,7 @@ Here links to my other web pages:
 * Cornell Vivo: https://vivo.weill.cornell.edu/display/cwid-kas2049
 * Orcid: https://orcid.org/0000-0001-9638-3912
 * Publons: https://publons.com/researcher/4947442/karsten-suhre
+* Google Scholar: https://scholar.google.com/citations?user=VwCP8jwAAAAJ
 * Github: https://github.com/karstensuhre
 * Homepage: http://suhre.fr
 * E-mail: karsten at suhre dot fr
