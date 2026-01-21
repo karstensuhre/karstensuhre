@@ -1,7 +1,8 @@
 ### Welcome to my Github repository
 Here links to my other web pages:
 * Blog: http://metabolomix.com
-* Twitter: https://twitter.com/ksuhre
+* X: https://twitter.com/ksuhre
+* BlueSky: https://bsky.app/profile/ksuhre.bsky.social
 * LinkedIn: https://www.linkedin.com/in/karstensuhre
 * Mastodon: <a rel="me" href="https://sciencemastodon.com/@ksuhre">https://sciencemastodon.com/@ksuhre</a>
 * Lab Page: https://qatar-weill.cornell.edu/research/research-faculty/suhre-lab
