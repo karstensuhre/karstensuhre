@@ -1,0 +1,14 @@
+casanovo-env/
+*.log
+
+# Mass spec data and models (download with the scripts in data/)
+data/*.d/
+data/*.mgf
+data/*.mzML
+data/*.mztab
+data/*.zip
+data/models/
+data/out_*/
+
+__pycache__/
+*.pyc
